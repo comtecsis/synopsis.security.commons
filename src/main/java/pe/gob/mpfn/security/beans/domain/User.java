@@ -18,5 +18,6 @@ public class User implements Serializable
     private String phone;
     private String role;
     private Boolean existImage;
+    private String environment;
 
 }
