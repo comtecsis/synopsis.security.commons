@@ -12,7 +12,7 @@
 	<groupId>pe.gob.mpfn</groupId>
 	<artifactId>ruva.security.commons</artifactId>
 	<version>0.0.1</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>ruva.security.commons</name>
 	<description>Ruva Componente de Seguridad</description>
 	<dependencies>
@@ -61,13 +61,14 @@
 	</dependencies>
 
 	<build>
-		<plugins>
-
-			<plugin>
-				<groupId>org.springframework.boot</groupId>
-				<artifactId>spring-boot-maven-plugin</artifactId>
-			</plugin>
-		</plugins>
+		<pluginManagement>
+			<plugins>
+				<plugin>
+					<groupId>org.springframework.boot</groupId>
+					<artifactId>spring-boot-maven-plugin</artifactId>
+				</plugin>
+			</plugins>
+		</pluginManagement>
 	</build>
 
 </project>
