@@ -7,10 +7,10 @@ public enum RuvaEnum
 {
 
     // @formatter:off
-    JWT_EXPIRATION("ig.jwt.expiration"), 
-    JWT_SECRET("ig.jwt.secret"), 
-    JWT_PREFIX("ig.jwt.prefix"), 
-    JWT_HEADER("ig.jwt.header"), 
+    JWT_EXPIRATION("jwt.expiration"), 
+    JWT_SECRET("jwt.secret"), 
+    JWT_PREFIX("jwt.prefix"), 
+    JWT_HEADER("jwt.header"), 
     DEV_HOME("DEV_HOME");
     // @formatter:on
 
