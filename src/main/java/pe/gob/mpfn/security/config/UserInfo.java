@@ -17,14 +17,12 @@ public class UserInfo implements Serializable
     private final String email;
     private final String phone;
     private final Long userId;
-    private final String environment;
 
     public UserInfo(final User userInfo)
     {
         this.email = userInfo.getEmail();
         this.userId = userInfo.getUserId();
         this.phone = userInfo.getPhone();
-        this.environment = userInfo.getEnvironment();
     }
 
     public static UserWrapper fromJson(String json)
