@@ -5,7 +5,7 @@
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pe.gob.mpfn</groupId>
 	<artifactId>ruva.security.commons</artifactId>
-	<version>0.0.1</version>
+	<version>1.0</version>
 	<packaging>jar</packaging>
 	<name>ruva.security.commons</name>
 	<description>Ruva Componente de Seguridad</description>
