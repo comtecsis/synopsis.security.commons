@@ -1,12 +1,12 @@
 
-package pe.gob.mpfn.security.config;
+package ws.synopsis.security.config;
 
 import java.util.Arrays;
 import java.util.List;
 
 import lombok.Getter;
 import lombok.Setter;
-import pe.gob.mpfn.security.beans.domain.User;
+import ws.synopsis.security.beans.domain.User;
 
 @Getter
 @Setter

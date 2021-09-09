@@ -1,12 +1,12 @@
 
-package pe.gob.mpfn.security.config;
+package ws.synopsis.security.config;
 
 import java.io.Serializable;
 
 import com.google.gson.Gson;
 
 import lombok.Getter;
-import pe.gob.mpfn.security.beans.domain.User;
+import ws.synopsis.security.beans.domain.User;
 
 @Getter
 public class UserInfo implements Serializable

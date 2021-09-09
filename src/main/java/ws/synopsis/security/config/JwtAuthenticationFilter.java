@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.config;
+package ws.synopsis.security.config;
 
 import java.io.IOException;
 
@@ -21,7 +21,7 @@ import org.springframework.security.web.authentication.WebAuthenticationDetailsS
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import pe.gob.mpfn.security.enumeration.RuvaEnum;
+import ws.synopsis.security.enumeration.RuvaEnum;
 
 @Component
 public class JwtAuthenticationFilter extends OncePerRequestFilter

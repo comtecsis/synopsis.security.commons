@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.enumeration;
+package ws.synopsis.security.enumeration;
 
 import org.springframework.core.env.Environment;
 

@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.beans.response;
+package ws.synopsis.security.beans.response;
 
 import com.fasterxml.jackson.annotation.JsonInclude;
 import com.fasterxml.jackson.annotation.JsonInclude.Include;

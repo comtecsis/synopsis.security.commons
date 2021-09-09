@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.config;
+package ws.synopsis.security.config;
 
 import java.io.IOException;
 import java.io.PrintWriter;
@@ -16,8 +16,8 @@ import org.springframework.stereotype.Component;
 
 import com.google.gson.Gson;
 
-import pe.gob.mpfn.security.beans.response.Response;
-import pe.gob.mpfn.security.enumeration.RuvaCodeEnum;
+import ws.synopsis.security.beans.response.Response;
+import ws.synopsis.security.enumeration.RuvaCodeEnum;
 
 @Component
 public class JwtAuthenticationEntryPoint implements AuthenticationEntryPoint

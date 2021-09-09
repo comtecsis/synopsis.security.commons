@@ -1,11 +1,11 @@
 
-package pe.gob.mpfn.security.beans.domain;
+package ws.synopsis.security.beans.domain;
 
 import java.io.Serializable;
 
 import lombok.Builder;
 import lombok.Data;
-import pe.gob.mpfn.security.utils.SecurityConstants;
+import ws.synopsis.security.utils.SecurityConstants;
 
 @Data
 @Builder

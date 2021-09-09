@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.config;
+package ws.synopsis.security.config;
 
 import java.util.Date;
 
@@ -14,7 +14,7 @@ import com.auth0.jwt.JWT;
 import com.auth0.jwt.algorithms.Algorithm;
 import com.google.gson.Gson;
 
-import pe.gob.mpfn.security.enumeration.RuvaEnum;
+import ws.synopsis.security.enumeration.RuvaEnum;
 
 @Component
 public class JwtTokenProvider

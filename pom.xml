@@ -4,11 +4,11 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>pe.gob.mpfn</groupId>
-	<artifactId>ruva.security.commons</artifactId>
+	<artifactId>synopsis.security.commons</artifactId>
 	<version>1.0</version>
 	<packaging>jar</packaging>
-	<name>ruva.security.commons</name>
-	<description>Ruva Componente de Seguridad</description>
+	<name>synopsis.security.commons</name>
+	<description>Synopsis Componente de Seguridad</description>
 	<parent>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-parent</artifactId>

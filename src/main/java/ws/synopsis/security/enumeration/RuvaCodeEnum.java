@@ -1,7 +1,7 @@
 
-package pe.gob.mpfn.security.enumeration;
+package ws.synopsis.security.enumeration;
 
-import pe.gob.mpfn.security.beans.response.Status;
+import ws.synopsis.security.beans.response.Status;
 
 /**
  * 

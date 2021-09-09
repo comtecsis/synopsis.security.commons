@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.config;
+package ws.synopsis.security.config;
 
 import org.springframework.security.core.GrantedAuthority;
 

@@ -1,5 +1,5 @@
 
-package pe.gob.mpfn.security.utils;
+package ws.synopsis.security.utils;
 
 public class SecurityConstants
 {
